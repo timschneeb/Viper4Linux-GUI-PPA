@@ -1,7 +1,7 @@
 #!/bin/bash
 #Portable DEB build script; V4L_Frontend binary needs to be in working directory
-version=1.10
-revision=1
+version=1.11
+revision=0
 debname="viper4linux-gui_"$version-$revision
 mkdir $debname
 mkdir $debname"/DEBIAN"
@@ -17,7 +17,7 @@ cat <<EOT >> $debname"/usr/share/applications/viper-gui.desktop"
 [Desktop Entry]
 Name=Viper4Linux
 GenericName=Equalizer
-Comment=Unofficial UI for Viper4Linux
+Comment=Official UI for Viper4Linux
 Keywords=equalizer
 Categories=AudioVideo;Audio;
 Exec=viper-gui
