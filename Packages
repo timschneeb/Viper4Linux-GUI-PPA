@@ -43,3 +43,18 @@ Priority: optional
 Homepage: https://github.com/ThePBone/Viper4Linux-GUI
 Description: Official Graphical User Interface for Viper4Linux
 
+Package: viper4linux-gui
+Version: 1.13-0
+Architecture: amd64
+Maintainer: ThePBone <thebone.main@gmail.com>
+Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5xml5 (>= 5.9.5), libgl1-mesa-dev,git
+Filename: ./viper4linux-gui_1.13-0.deb
+Size: 267132
+MD5sum: 16d99b8cf51b1f0b3da2a096818b442c
+SHA1: efc0c2a6a48cb6299e730e1b3c63e8f21036c360
+SHA256: ff95f64e73ea5dc8f9c1e91c471e2d0cb7ba75a9fb667078d0163cfce3bcd287
+Section: sound
+Priority: optional
+Homepage: https://github.com/ThePBone/Viper4Linux-GUI
+Description: Official Graphical User Interface for Viper4Linux
+
