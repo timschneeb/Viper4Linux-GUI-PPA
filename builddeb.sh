@@ -1,6 +1,6 @@
 #!/bin/bash
 #Portable DEB build script; V4L_Frontend binary needs to be in working directory
-version=1.13
+version=1.14
 revision=0
 debname="viper4linux-gui_"$version-$revision
 mkdir $debname
