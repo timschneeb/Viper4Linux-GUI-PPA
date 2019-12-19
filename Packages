@@ -64,10 +64,10 @@ Architecture: amd64
 Maintainer: ThePBone <thebone.main@gmail.com>
 Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5xml5 (>= 5.9.5), libgl1-mesa-dev,git
 Filename: ./viper4linux-gui_1.14-0.deb
-Size: 238920
-MD5sum: 0b97e9a7dab7cf3125b4c754d59492a8
-SHA1: ded4af543cdc92ee93538638fe38b035651952d6
-SHA256: d29296b5f0ed562ef6813c3849512fc16ca5710720b87e128b1df4d871cba979
+Size: 238496
+MD5sum: 68e97f7ec0b1e3d7fec511cc9ea78742
+SHA1: 33d4feab9ec8099271bb7d10f917599bfa1c65f6
+SHA256: 71a1d3610a3a05a4333c6fa1f53ccba27e04239c92c9ac20e49559d92e13aa7d
 Section: sound
 Priority: optional
 Homepage: https://github.com/ThePBone/Viper4Linux-GUI
